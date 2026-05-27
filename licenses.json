@@ -4,5 +4,13 @@
       "ContrapisoPRO"
     ],
     "expira": "2026-08-26"
+  },
+  "CONPINREC-C1028D": {
+    "plugins": [
+      "ContrapisoPRO",
+      "PinturaPRO",
+      "RecubrimientoPRO"
+    ],
+    "expira": "2026-08-26"
   }
 }
