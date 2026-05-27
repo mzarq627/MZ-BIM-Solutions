@@ -1,0 +1,36 @@
+{ "plugins": [
+{
+    "name": "ContrapisoPRO",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/ContrapisoPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/ContrapisoPRO.png"
+  }
+,
+{
+    "name": "PinturaPRO",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/PinturaPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/PinturaPRO.png"
+  }
+,
+{
+    "name": "RecubrimientoPRO",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/RecubrimientoPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/RecubrimientoPRO.png"
+  }
+,
+{
+    "name": "TechoPRO",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/TechoPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/TechoPRO.png"
+  }
+,
+{
+    "name": "ZonificacionPRO",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/ZonificacionPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/ZonificacionPRO.png"
+  }
+]}
