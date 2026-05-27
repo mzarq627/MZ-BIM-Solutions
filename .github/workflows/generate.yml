@@ -1,0 +1,70 @@
+name: Generate versions.json
+
+on:
+  push:
+    paths:
+      - 'plugins/**'
+      - 'icons/**'
+
+permissions:
+  contents: write
+
+jobs:
+
+  generate-json:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # DESCARGAR REPO
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # CREAR versions.json AUTOMATICAMENTE
+      - name: Generate versions.json
+
+        run: |
+
+          echo '{ "plugins": [' > versions.json
+
+          first=true
+
+          for file in plugins/*.zip; do
+
+            filename=$(basename "$file" .zip)
+
+            image="https://raw.githubusercontent.com/${{ github.repository }}/main/icons/${filename}.png"
+
+            zipurl="https://raw.githubusercontent.com/${{ github.repository }}/main/plugins/${filename}.zip"
+
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo ',' >> versions.json
+            fi
+
+            echo "{
+              \"name\": \"$filename\",
+              \"version\": \"1.0\",
+              \"file\": \"$zipurl\",
+              \"image\": \"$image\"
+            }" >> versions.json
+
+          done
+
+          echo ']}' >> versions.json
+
+      # HACER COMMIT AUTOMATICO
+      - name: Commit versions.json
+
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add versions.json
+
+          git commit -m "Auto update versions.json" || echo "No changes"
+
+          git push
