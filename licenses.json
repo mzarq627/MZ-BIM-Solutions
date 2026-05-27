@@ -1,16 +1,47 @@
 {
   "CONTRAPISOPRO-856741": {
-    "plugins": [
-      "ContrapisoPRO"
-    ],
-    "expira": "2026-08-26"
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "ContrapisoPRO": {
+        "expira": "2026-08-26",
+        "active": true
+      }
+    }
   },
   "CONPINREC-C1028D": {
-    "plugins": [
-      "ContrapisoPRO",
-      "PinturaPRO",
-      "RecubrimientoPRO"
-    ],
-    "expira": "2026-08-26"
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "ContrapisoPRO": {
+        "expira": "2026-08-26",
+        "active": true
+      },
+      "PinturaPRO": {
+        "expira": "2026-08-26",
+        "active": true
+      },
+      "RecubrimientoPRO": {
+        "expira": "2026-08-26",
+        "active": true
+      }
+    }
+  },
+  "RECTEC-8073B7": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "RecubrimientoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "TechoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      }
+    }
   }
 }
