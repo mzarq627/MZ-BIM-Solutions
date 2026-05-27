@@ -58,5 +58,24 @@
         "active": true
       }
     }
+  },
+  "CONPINREC-6DB969": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "ContrapisoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "PinturaPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "RecubrimientoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      }
+    }
   }
 }
