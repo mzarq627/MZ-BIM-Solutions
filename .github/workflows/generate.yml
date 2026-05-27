@@ -1,10 +1,13 @@
 name: Generate versions.json
 
 on:
+
   push:
     paths:
       - 'plugins/**'
       - 'icons/**'
+
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,11 +20,11 @@ jobs:
 
     steps:
 
-      # DESCARGAR REPO
+      # DESCARGAR REPOSITORIO
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # CREAR versions.json AUTOMATICAMENTE
+      # GENERAR versions.json AUTOMATICAMENTE
       - name: Generate versions.json
 
         run: |
