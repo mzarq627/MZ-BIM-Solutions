@@ -1,19 +1,4 @@
 {
-  "RECTEC-8073B7": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-27",
-    "plugins": {
-      "RecubrimientoPRO": {
-        "expira": "2026-05-29",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-29",
-        "active": true
-      }
-    }
-  },
   "TECZON-63457F": {
     "machineId": "",
     "active": true,
