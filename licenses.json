@@ -1,19 +1,4 @@
 {
-  "TECZON-63457F": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-27",
-    "plugins": {
-      "TechoPRO": {
-        "expira": "2026-05-02",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-02",
-        "active": true
-      }
-    }
-  },
   "CONPINREC-6DB969": {
     "machineId": "",
     "active": true,
