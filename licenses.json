@@ -1,15 +1,4 @@
 {
-  "CONTRAPISOPRO-856741": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-27",
-    "plugins": {
-      "ContrapisoPRO": {
-        "expira": "2026-08-26",
-        "active": true
-      }
-    }
-  },
   "CONPINREC-C1028D": {
     "machineId": "",
     "active": true,
