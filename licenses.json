@@ -9,5 +9,16 @@
         "active": true
       }
     }
+  },
+  "REC-5C4595": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "RecubrimientoPRO": {
+        "expira": "2026-05-30",
+        "active": true
+      }
+    }
   }
 }
