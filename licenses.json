@@ -1,31 +1,4 @@
 {
-  "CONPINRECTECZON-F29BB8": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
   "CONPINRECTECZON-89D379": {
     "machineId": "",
     "active": true,
