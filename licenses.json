@@ -1,23 +1,4 @@
 {
-  "RECTECZON-6AC0CF": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
   "PINRECTEC-05210C": {
     "machineId": "",
     "active": true,
