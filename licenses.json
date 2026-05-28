@@ -1,15 +1,4 @@
 {
-  "ZON-B8DF95": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
   "PIN-47302C": {
     "machineId": "",
     "active": true,
