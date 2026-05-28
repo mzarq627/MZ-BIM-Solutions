@@ -1,168 +1,27 @@
 {
-  "ZON-B8DF95": {
+  "CONPINRECTECZON-CED614": {
     "machineId": "",
     "active": true,
     "createdAt": "2026-05-28",
     "plugins": {
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "PIN-47302C": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "CONPINRECTECZON-F29BB8": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "CONPINRECTECZON-89D379": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO": {
+      "ContrapisoPRO.extension": {
         "expira": "2026-05-29",
         "active": true
       },
-      "PinturaPRO": {
+      "PinturaPRO.extension": {
         "expira": "2026-05-29",
         "active": true
       },
-      "RecubrimientoPRO": {
+      "RecubrimientoPRO.extension": {
         "expira": "2026-05-29",
         "active": true
       },
-      "TechoPRO": {
+      "TechoPRO.extension": {
         "expira": "2026-05-29",
         "active": true
       },
-      "ZonificacionPRO": {
+      "ZonificacionPRO.extension": {
         "expira": "2026-05-29",
-        "active": true
-      }
-    }
-  },
-  "RECTECZON-6AC0CF": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "PINRECTEC-05210C": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "CONPINRECTECZON-026333": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
-  "CONPINRECTECZON-E5E753": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "RecubrimientoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "TechoPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      },
-      "ZonificacionPRO": {
-        "expira": "2026-05-30",
         "active": true
       }
     }
