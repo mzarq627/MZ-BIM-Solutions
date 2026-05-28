@@ -1,1 +1,13 @@
-{}
+{
+  "CON-8D0E66": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "ContrapisoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      }
+    }
+  }
+}
