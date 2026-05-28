@@ -1,15 +1,4 @@
 {
-  "PIN-47302C": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "PinturaPRO": {
-        "expira": "2026-05-30",
-        "active": true
-      }
-    }
-  },
   "CONPINRECTECZON-F29BB8": {
     "machineId": "",
     "active": true,
