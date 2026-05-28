@@ -20,5 +20,20 @@
         "active": true
       }
     }
+  },
+  "RECZON-16CCCE": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-27",
+    "plugins": {
+      "RecubrimientoPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "ZonificacionPRO": {
+        "expira": "2026-05-29",
+        "active": true
+      }
+    }
   }
 }
