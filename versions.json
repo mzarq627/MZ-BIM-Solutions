@@ -1,12 +1,5 @@
 { "plugins": [
 {
-    "name": "CIELOFALSOPRO",
-    "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/CIELOFALSOPRO.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/CIELOFALSOPRO.png"
-  }
-,
-{
     "name": "CONTRAPISOPRO",
     "version": "1.0",
     "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/CONTRAPISOPRO.zip",
