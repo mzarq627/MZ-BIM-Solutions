@@ -1,1 +1,29 @@
-{}
+{
+  "CIECONMIPINZON-2F36C0": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-06-01",
+    "plugins": {
+      "CIELOFALSOPRO": {
+        "expira": "2026-06-02",
+        "active": true
+      },
+      "CONTRAPISOPRO": {
+        "expira": "2026-06-02",
+        "active": true
+      },
+      "MUROS-INTPRO": {
+        "expira": "2026-06-02",
+        "active": true
+      },
+      "PINTURAPRO": {
+        "expira": "2026-06-02",
+        "active": true
+      },
+      "ZONIFICARPRO": {
+        "expira": "2026-06-02",
+        "active": true
+      }
+    }
+  }
+}
