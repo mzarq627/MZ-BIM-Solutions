@@ -1,36 +1,36 @@
 { "plugins": [
 {
-    "name": "ContrapisoPRO.extension",
+    "name": "CIELOFALSOPRO",
     "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/ContrapisoPRO.extension.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/ContrapisoPRO.extension.png"
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/CIELOFALSOPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/CIELOFALSOPRO.png"
   }
 ,
 {
-    "name": "PinturaPRO.extension",
+    "name": "CONTRAPISOPRO",
     "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/PinturaPRO.extension.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/PinturaPRO.extension.png"
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/CONTRAPISOPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/CONTRAPISOPRO.png"
   }
 ,
 {
-    "name": "RecubrimientoPRO.extension",
+    "name": "MUROS-INTPRO",
     "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/RecubrimientoPRO.extension.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/RecubrimientoPRO.extension.png"
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/MUROS-INTPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/MUROS-INTPRO.png"
   }
 ,
 {
-    "name": "TechoPRO.extension",
+    "name": "PINTURAPRO",
     "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/TechoPRO.extension.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/TechoPRO.extension.png"
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/PINTURAPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/PINTURAPRO.png"
   }
 ,
 {
-    "name": "ZonificacionPRO.extension",
+    "name": "ZONIFICARPRO",
     "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/ZonificacionPRO.extension.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/ZonificacionPRO.extension.png"
+    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/ZONIFICARPRO.zip",
+    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/ZONIFICARPRO.png"
   }
 ]}
