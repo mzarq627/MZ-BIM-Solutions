@@ -25,5 +25,32 @@
         "active": true
       }
     }
+  },
+  "CONPINRECTECZON-C0908B": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-05-28",
+    "plugins": {
+      "ContrapisoPRO.extension": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "PinturaPRO.extension": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "RecubrimientoPRO.extension": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "TechoPRO.extension": {
+        "expira": "2026-05-29",
+        "active": true
+      },
+      "ZonificacionPRO.extension": {
+        "expira": "2026-05-29",
+        "active": true
+      }
+    }
   }
 }
