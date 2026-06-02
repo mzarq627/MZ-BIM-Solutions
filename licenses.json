@@ -1,54 +1,27 @@
 {
-  "CONPINRECTECZON-CED614": {
+  "CIECONMIPINZON-2F36C0": {
     "machineId": "",
     "active": true,
-    "createdAt": "2026-05-28",
+    "createdAt": "2026-06-01",
     "plugins": {
-      "ContrapisoPRO.extension": {
-        "expira": "2026-05-29",
+      "CIELOFALSOPRO": {
+        "expira": "2026-06-02",
         "active": true
       },
-      "PinturaPRO.extension": {
-        "expira": "2026-05-29",
+      "CONTRAPISOPRO": {
+        "expira": "2026-06-02",
         "active": true
       },
-      "RecubrimientoPRO.extension": {
-        "expira": "2026-05-29",
+      "MUROS-INTPRO": {
+        "expira": "2026-06-02",
         "active": true
       },
-      "TechoPRO.extension": {
-        "expira": "2026-05-29",
+      "PINTURAPRO": {
+        "expira": "2026-06-02",
         "active": true
       },
-      "ZonificacionPRO.extension": {
-        "expira": "2026-05-29",
-        "active": true
-      }
-    }
-  },
-  "CONPINRECTECZON-C0908B": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-05-28",
-    "plugins": {
-      "ContrapisoPRO.extension": {
-        "expira": "2026-05-29",
-        "active": true
-      },
-      "PinturaPRO.extension": {
-        "expira": "2026-05-29",
-        "active": true
-      },
-      "RecubrimientoPRO.extension": {
-        "expira": "2026-05-29",
-        "active": true
-      },
-      "TechoPRO.extension": {
-        "expira": "2026-05-29",
-        "active": true
-      },
-      "ZonificacionPRO.extension": {
-        "expira": "2026-05-29",
+      "ZONIFICARPRO": {
+        "expira": "2026-06-02",
         "active": true
       }
     }
