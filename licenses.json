@@ -140,5 +140,28 @@
         "active": true
       }
     }
+  },
+  "CONMIPINZON-15368E": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-06-02",
+    "plugins": {
+      "CONTRAPISOPRO": {
+        "expira": "2026-08-01",
+        "active": true
+      },
+      "MUROS-INTPRO": {
+        "expira": "2026-08-01",
+        "active": true
+      },
+      "PINTURAPRO": {
+        "expira": "2026-08-01",
+        "active": true
+      },
+      "ZONIFICARPRO": {
+        "expira": "2026-08-01",
+        "active": true
+      }
+    }
   }
 }
