@@ -1,13 +1,1 @@
-{
-  "ZON-BBA1EB": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-06-01",
-    "plugins": {
-      "ZONIFICARPRO": {
-        "expira": "2026-06-03",
-        "active": true
-      }
-    }
-  }
-}
+{}
