@@ -1,15 +1,4 @@
 {
-  "MI-66B0EB": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-06-01",
-    "plugins": {
-      "MUROS-INTPRO": {
-        "expira": "2026-06-03",
-        "active": true
-      }
-    }
-  },
   "ZON-BBA1EB": {
     "machineId": "",
     "active": true,
