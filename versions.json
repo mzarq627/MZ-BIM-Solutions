@@ -14,13 +14,6 @@
   }
 ,
 {
-    "name": "MZBIM_CORE",
-    "version": "1.0",
-    "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/MZBIM_CORE.zip",
-    "image": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/icons/MZBIM_CORE.png"
-  }
-,
-{
     "name": "PINTURAPRO",
     "version": "1.0",
     "file": "https://raw.githubusercontent.com/mzarq627/MZ-BIM-Solutions/main/plugins/PINTURAPRO.zip",
