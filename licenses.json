@@ -1,19 +1,4 @@
 {
-  "CONMI-FF2452": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-06-01",
-    "plugins": {
-      "CONTRAPISOPRO": {
-        "expira": "2026-06-03",
-        "active": true
-      },
-      "MUROS-INTPRO": {
-        "expira": "2026-06-03",
-        "active": true
-      }
-    }
-  },
   "CIE-0FA40A": {
     "machineId": "",
     "active": true,
