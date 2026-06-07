@@ -1,27 +1,4 @@
 {
-  "CONMIPINZON-6C5827": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-06-03",
-    "plugins": {
-      "CONTRAPISOPRO": {
-        "expira": "2026-06-06",
-        "active": true
-      },
-      "MUROS-INTPRO": {
-        "expira": "2026-06-06",
-        "active": true
-      },
-      "PINTURAPRO": {
-        "expira": "2026-06-06",
-        "active": true
-      },
-      "ZONIFICARPRO": {
-        "expira": "2026-06-06",
-        "active": true
-      }
-    }
-  },
   "CONMIPINZON-8B4349": {
     "machineId": "",
     "active": true,
