@@ -1,27 +1,4 @@
 {
-  "CONMIPINZON-C89BC8": {
-    "machineId": "",
-    "active": true,
-    "createdAt": "2026-06-02",
-    "plugins": {
-      "CONTRAPISOPRO": {
-        "expira": "2026-08-05",
-        "active": true
-      },
-      "MUROS-INTPRO": {
-        "expira": "2026-08-05",
-        "active": true
-      },
-      "PINTURAPRO": {
-        "expira": "2026-08-05",
-        "active": true
-      },
-      "ZONIFICARPRO": {
-        "expira": "2026-08-05",
-        "active": true
-      }
-    }
-  },
   "CONMIMZBPINZON-138E3D": {
     "machineId": "",
     "active": true,
