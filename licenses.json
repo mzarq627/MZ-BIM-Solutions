@@ -40,5 +40,28 @@
         "active": true
       }
     }
+  },
+  "CONMIPINZON-BEFC55": {
+    "machineId": "",
+    "active": true,
+    "createdAt": "2026-06-25",
+    "plugins": {
+      "CONTRAPISOPRO": {
+        "expira": "2026-06-20",
+        "active": true
+      },
+      "MUROS-INTPRO": {
+        "expira": "2026-06-20",
+        "active": true
+      },
+      "PINTURAPRO": {
+        "expira": "2026-06-20",
+        "active": true
+      },
+      "ZONIFICARPRO": {
+        "expira": "2026-06-20",
+        "active": true
+      }
+    }
   }
 }
